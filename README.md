@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">I am a Back-end Developer
+<h3 align="center">I am a Back-end Developer Junior
 </h3>
 
 - 📫 How to reach me **joaop.dsilvadias@gmail.com**
